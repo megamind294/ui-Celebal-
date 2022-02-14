@@ -1,0 +1,128 @@
+.head h2 {
+  font-family: Lexend;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 67px;
+  line-height: 104px;
+  text-align: center;
+  letter-spacing: -1.5px;
+  color: red;
+}
+/* .para {
+  position: absolute;
+  width: 1235px;
+  height: 123px;
+  left: 107px;
+  top: 308px;
+} */
+.para-1 {
+  font-family: Lexend;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 52px;
+  line-height: 88px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.logo-1 {
+  width: 507.22px;
+  height: 268.83px;
+  left: 408px;
+  top: 468px;
+  transform: rotate(4.85deg);
+}
+.Rectangle h1 {
+  font-family: "Lexend Deca", sans-serif;
+  margin-left: 46px;
+  padding: 88px;
+  font-size: 48px;
+  font-weight: normal;
+}
+.vector {
+  display: flex;
+  /* background-color: #e8eaf7; */
+  justify-content: space-around;
+  column-gap: 40px;
+  margin: 20px;
+}
+.cust {
+  height: 119px;
+  width: 97px;
+}
+.vector h5 {
+  color: #dc3220;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 23px;
+  font-weight: normal;
+}
+.vector h6 {
+  color: #777777;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 16.5px;
+  font-weight: normal;
+}
+.benefits h2 {
+  color: #000000;
+  /* background-color: #fdece5; */
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 44px;
+  font-weight: normal;
+  padding: 30px;
+}
+.row {
+  display: flex;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  justify-content: space-around;
+}
+.card {
+  box-sizing: border-box;
+  background: #ddefe6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 52px;
+}
+.benefits {
+  background-color: #fdece5;
+  padding: 65px;
+}
+
+.benefits h5 {
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: normal;
+}
+.colum {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  justify-content: space-around;
+}
+.car {
+  box-sizing: border-box;
+  background: #ddefe6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 58px;
+}
+.colu {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  justify-content: space-around;
+}
+.ca {
+  box-sizing: border-box;
+  background: #ddefe6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 51px;
+}
+
